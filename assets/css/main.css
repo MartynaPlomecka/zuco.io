@@ -153,7 +153,7 @@
 
 	h2 {
 		color: #646464;
-		font-weight: 450;
+		font-weight: 360;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
 	}
@@ -164,7 +164,7 @@
 		}
 
 	h2 {
-		font-size: 2.7em;
+		font-size: 3em;
 		line-height: 1.5em;
 		letter-spacing: -0.035em;
 	}
@@ -3180,7 +3180,7 @@
 	}
 
 		#banner :last-child {
-			margin-bottom: 10;
+			margin-bottom: 20;
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
