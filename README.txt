@@ -1,1 +1,1 @@
-https://martynaplomecka.github.io/zuco.io/
+www.zuco-benchmark.com
