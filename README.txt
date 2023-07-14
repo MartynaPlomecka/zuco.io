@@ -1,1 +1,1 @@
-www.zuco-benchmark.github.io
+https://zuco-benchmark.github.io/zuco-benchmark/
